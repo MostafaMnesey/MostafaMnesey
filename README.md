@@ -1,111 +1,182 @@
-<h1 align="center">Hi 👋, I'm Mostafa</h1>
-<h3 align="center">Backend Developer | Node.js | Prisma | PostgreSQL</h3>
+```md
+<h1 align="center">Hi 👋, I'm Mostafa Menesy</h1>
+
+<h3 align="center">
+Full Stack Developer | Next.js | NestJS 
+</h3>
 
 <p align="center">
-Passionate about building scalable backend systems and APIs.
+I build modern, scalable web applications from frontend to backend, focusing on clean architecture, high performance, and great user experiences.
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
+- 💼 Full Stack Developer specializing in **Next.js** & **NestJS**
 - 🎓 Computer Science Student
-- 💻 Backend Developer
-- 🚀 Currently working on **LMS Platform**
-- 🧠 Interested in **System Design & Scalable APIs**
-- 🔭 Learning **Advanced Backend Architecture**
-- ⚡ Love solving real backend problems
+- 🚀 Passionate about building scalable web applications
+- 🏗 Interested in **System Design**, **Backend Architecture**, and **Modern Frontend Development**
+- 🐳 Experienced with Docker, CI/CD, and Linux deployments
+- 📚 Always learning new technologies and best practices
 
 ---
 
-# 🛠 Tech Stack
-
-### Backend
-![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express.js-404d59?style=for-the-badge)
-![Prisma](https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma)
-
-### Database
-![Postgres](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql)
+## 🛠 Tech Stack
 
 ### Frontend
-![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react)
 
-### Tools
-![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/git-f1502f?style=for-the-badge&logo=git)
-![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman)
+- Next.js
+- React.js
+- TypeScript
+- JavaScript (ES6+)
+- Tailwind CSS
+- HTML5
+- CSS3
+
+### Backend
+
+- NestJS
+- Node.js
+- Express.js
+- Prisma ORM
+- REST APIs
+- Authentication (JWT)
+- Zod Validation
+
+### Databases
+
+- PostgreSQL
+- MySQL
+- Redis
+
+### DevOps & Tools
+
+- Docker
+- Docker Compose
+- Git & GitHub
+- GitHub Actions
+- Linux (Ubuntu)
+- PM2
+- Nginx
+- Postman
+
+### Integrations
+
+- Stripe
+- Cloudinary
+- Firebase Cloud Messaging (FCM)
+- HERE Maps
+- OSRM
 
 ---
 
-# 🚀 Projects
+## 🚀 Featured Projects
 
-### 🧑‍🏫 LMS Platform
-Online Learning Management System.
+### 🎓 Learning Management System
 
-Features:
-- Teacher & Student Roles
-- Subjects Management
-- Authentication System
-- Pricing Plans
-- Sessions Booking
+A scalable learning platform with complete student and teacher management.
 
-Tech:
-- Node.js
+**Features**
+
+- Authentication & Authorization
+- Role-Based Access Control
+- Student & Teacher Management
+- Session Booking
+- Attendance Tracking
+- Reviews & Ratings
+- Dashboard & Analytics
+- Notifications
+
+**Tech**
+
+- NestJS
 - Prisma
 - PostgreSQL
+- Redis
 - Docker
 
 ---
 
-### 🧠 Balance App
-Online mental health clinic platform.
+### 🛒 E-Commerce Platform
 
-Features:
+A complete e-commerce solution with secure payment processing.
+
+**Features**
+
+- Authentication
+- Product & Category Management
+- Shopping Cart
+- Orders
+- Stripe Payments
+- Coupon System
+- Product Translations
+
+**Tech**
+
+- Next.js
+- NestJS
+- PostgreSQL
+- Prisma
+- Docker
+
+---
+
+### 🧠 Balance Platform
+
+An online mental health platform connecting doctors and patients.
+
+**Features**
+
 - Doctor & Patient Accounts
+- Appointment Booking
 - Community Posts
-- Real-time Chat
 - Task Management
+- Real-time Chat
 
-Tech:
-- Laravel
+**Tech**
+
 - React
-- REST API
+- Laravel
+- MySQL
 
 ---
 
-# 📊 GitHub Stats
+## 🌱 Currently Learning
+
+- Microservices
+- System Design
+- AWS
+- Kubernetes
+- Software Architecture
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
-
----
-
-# 🧠 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
-<p align="left">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-LinkedIn
-</a>
-
-</p>
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- 📧 Email: YOUR_EMAIL
+- 🌐 Portfolio: YOUR_PORTFOLIO
 
 ---
 
-# ⚡ Fun Fact
+## ⚡ Fun Fact
 
-I enjoy building backend systems more than sleeping 😄
+I enjoy turning complex ideas into clean, scalable, and production-ready applications.
+```
