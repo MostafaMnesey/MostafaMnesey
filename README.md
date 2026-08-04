@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Mostafa Menesy</h1>
 
 <h3 align="center">
@@ -11,7 +10,7 @@ I build modern, scalable web applications from frontend to backend, focusing on 
 
 ---
 
-## 👨‍💻 About Me
+## 👨💻 About Me
 
 - 💼 Full Stack Developer specializing in **Next.js** & **NestJS**
 - 🎓 Computer Science Student
@@ -179,4 +178,3 @@ An online mental health platform connecting doctors and patients.
 ## ⚡ Fun Fact
 
 I enjoy turning complex ideas into clean, scalable, and production-ready applications.
-```
