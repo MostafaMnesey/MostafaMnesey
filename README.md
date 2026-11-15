@@ -170,8 +170,8 @@ An online mental health platform connecting doctors and patients.
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- 📧 Email: YOUR_EMAIL
-- 🌐 Portfolio: YOUR_PORTFOLIO
+- 📧 Email: mneseym@gmail.com
+
 
 ---
 
