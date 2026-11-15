@@ -169,7 +169,7 @@ An online mental health platform connecting doctors and patients.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- 💼 LinkedIn: https://linkedin.com/in/mostatamnesey
 - 📧 Email: mneseym@gmail.com
 
 
